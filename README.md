@@ -14,3 +14,4 @@ Initial commit. Incoming updates.
 
 # Later ToDo
 - separate model to account for weather, day of the week, etc
+- what happened on the outlier days? (10+ shots fired)
