@@ -3,6 +3,7 @@
 ### Working on right now:
 ~~isolating features~~
 ~~playing with model complexity~~
+- feature isolation
 - cleaning code
 - readbility + commentary
 
