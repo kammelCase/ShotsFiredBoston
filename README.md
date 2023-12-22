@@ -1,15 +1,18 @@
 # ShotsFiredBoston
 
-# Working on right now:
+### Working on right now:
 ~~isolating features~~
 ~~playing with model complexity~~
+- cleaning code
+- readbility + commentary
 
-# Current ToDo
+### Current ToDo
 - create aggregates by week
     - think that'll be the best way to create a doable y for this set
 ~~incorporate day of the week~~
 - incorporate holiday check: T or F
+- ~~trying scikit-learn~~
 
-# Later ToDo
+### Later ToDo
 - incorporate district data
 - try using different models for different districts
