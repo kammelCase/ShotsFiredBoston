@@ -6,6 +6,7 @@
 - feature isolation
 - cleaning code
 - readbility + commentary
+- domain knowledge
 
 ### Current ToDo
 - create aggregates by week
