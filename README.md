@@ -13,6 +13,8 @@
 - ~~incorporate day of the week~~
 - incorporate holiday check: T or F
 - ~~trying scikit-learn~~
+- K-fold cross validation
+- try SARIMA or ARIMA in scikit
 
 ### Later ToDo
 - create aggregates by week
