@@ -1,26 +1,30 @@
 # ShotsFiredBoston
 
-### Working on right now:
+**This is a work in progress**.
+
+It's an exploration of gun violence in Boston, MA to see if gun violence is increasing year-over-year.
+
+Incident data has been obtained from [Boston Data](https://data.boston.gov/dataset/shootings).
+Weather data has been obtained from [NOAA](https://www.ncei.noaa.gov/cdo-web/).
+
+#### Working on right now:
 - ~~isolating features~~
 - ~~playing with model complexity~~
-- Tuning normalization
+- ~~Tuning normalization~~
 - ~~feature isolation~~
 - ~~cleaning code~~
-- New branch to account for temp, daylight, etc
+- ~~New branch to account for temp, daylight, etc~~
 - commentary
 - additional domain knowledge research
 
-### Current ToDo
+#### Current ToDo
 - ~~incorporate day of the week~~
-- incorporate holiday check: T or F
+- incorporate holiday data: T or F
 - ~~trying scikit-learn~~
-- K-fold cross validation
-- try SARIMA or ARIMA in scikit
-- try Leaky ReLU?
 
-### Later ToDo
+#### Later ToDo
 - ~~create aggregates by week~~
     - ~~think that'll be the best way to create a doable y for this set~~
 - incorporate district data
 - different models for different districts
-    - ensemble model?
+    - ensemble?
