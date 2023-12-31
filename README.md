@@ -14,18 +14,17 @@ Weather data has been obtained from [NOAA](https://www.ncei.noaa.gov/cdo-web/).
 - ~~feature isolation~~
 - ~~cleaning code~~
 - ~~New branch to account for temp, daylight, etc~~
-- analyze final model
-- commentary
-- additional domain knowledge research
+- ~~analyze final model~~
+- ~~markdown~~
 
 #### Current ToDo
 - ~~incorporate day of the week~~
-- incorporate holiday data: T or F
 - ~~trying scikit-learn~~
 
-#### Later ToDo
+#### Wislist
 - ~~create aggregates by week~~
     - ~~think that'll be the best way to create a doable y for this set~~
+- incorporate holiday data: T or F
 - incorporate district data
 - different models for different districts
     - ensemble?
