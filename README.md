@@ -6,6 +6,7 @@
 - Tuning normalization
 - ~~feature isolation~~
 - ~~cleaning code~~
+- New branch to account for temp, daylight, etc
 - commentary
 - additional domain knowledge research
 
@@ -18,8 +19,8 @@
 - try Leaky ReLU?
 
 ### Later ToDo
-- create aggregates by week
-    - think that'll be the best way to create a doable y for this set
+- ~~create aggregates by week~~
+    - ~~think that'll be the best way to create a doable y for this set~~
 - incorporate district data
 - different models for different districts
     - ensemble model?
