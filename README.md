@@ -4,7 +4,7 @@
 This is an exploration of gun violence in Boston, MA to see if gun violence is increasing or decreasing year-over-year while detrending for extraneous factors such as seasonlity and weather.
 
 ### The Why.
-Gun violence is a major issue in the United States. It's an issue that I've covered as a documentarian and journalist, with my work being published by ReelSouth and PBS.
+Gun violence is a major issue in the United States. It's an issue that I've covered as a documentarian and journalist, with my work being published by [ReelSouth and PBS](https://vimeo.com/manage/videos/342489890).
 
 So I wanted to know how my hometown, Boston, is faring in the midst of this nationwide epidemic.
 
